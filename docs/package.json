@@ -18,13 +18,14 @@
     "@vuepress/plugin-pwa": "^1.0.0-rc.1",
     "@vuepress/theme-blog": "^2.3.1",
     "@vuepress/theme-default": "^1.7.1",
-    "vuepress": "^1.7.1"
+    "vuepress": "^1.8.2"
   },
   "dependencies": {
     "@vuepress/plugin-back-to-top": "^1.7.1",
     "@vuepress/plugin-medium-zoom": "^1.7.1",
     "mermaid": "^8.8.3",
+    "package.json": "^2.0.1",
     "three": "^0.122.0",
-    "yarn": "^1.22.4"
+    "yarn": "^1.22.11"
   }
 }

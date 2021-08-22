@@ -11,5 +11,5 @@ features:
   details: 개발 기록
 - title: Life.log
   details: 개발자 기록 
-footer: Made by Bashpound
+footer: Made by Bashpound 2020
 ---

@@ -59,13 +59,14 @@ module.exports = {
           ]
         },
         {
-          title: 'Dev.log',
+          title: 'Projects',
           collapsable: true,
           children: [
             'spring-vue',
             'spring-react',
             'idx',
-            'detection'
+            'detection',
+            'quanteract'
           ]
         },
         {
